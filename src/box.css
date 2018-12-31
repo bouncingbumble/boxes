@@ -1,0 +1,5 @@
+.box {
+    min-width: 30px;
+    min-height: 120px;
+    background-color: purple;
+}
